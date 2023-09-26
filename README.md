@@ -1,4 +1,4 @@
-# Photogrammetry
+# Photogrammetry for rare plant communities
 Code used in Tirrell et al, 2023
 
 This code was used to do an RMSE to better understand how plant coverage estimates made via digital 
